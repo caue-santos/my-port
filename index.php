@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <head>
 
     <title>Caue Santos</title>
@@ -59,6 +60,8 @@
                             <a type="button" class="btn-floating btn-small" onclick="window.open('https://www.twitter.com/cidyzilla');"><i class="fab fa-twitter"></i></a>
                             <!--Instagram +-->
                             <a type="button" class="btn-floating btn-small" onclick="window.open('https://www.instagram.com/cidyzilla');"><i class="fab fa-instagram"></i></a>
+                            <!--Linkedin +-->
+                            <a type="button" class="btn-floating btn-small" onclick="window.open('https://www.linkedin.com/in/caue-santos/');"><i class="fab fa-linkedin"></i></a>
 
                         </div>
                         <!--/.Card content-->
