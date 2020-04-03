@@ -49,7 +49,7 @@
                             <h4 class="card-title"><strong>Caue Santos</strong></h4>
                             <!-- <h5>Web developer</h5> -->
 
-                            <p class="card-text">Desenvolvedor PHP apaixonado Apple e Linux, skatista nas horas vagas e fã (muito) de Monster!
+                            <p class="card-text">Desenvolvedor PHP apaixonado por Apple e Linux, skatista nas horas vagas e fã (muito) de Monster!
                             </p>
 
                             <!--Twitter-->
