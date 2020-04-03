@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <head>
     <link rel="stylesheet" href="css/style.css">
     <!-- Font Awesome -->
