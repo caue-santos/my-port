@@ -10,6 +10,15 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
     <!-- Material Design Bootstrap -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.14.1/css/mdb.min.css" rel="stylesheet">
+
+    <!-- JQuery -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.14.1/js/mdb.min.js"></script>
 </head>
 <html>
 
@@ -44,12 +53,10 @@
                             <p class="card-text">Desenvolvedor PHP apaixonado Apple e Linux, skatista nas horas vagas e fã (muito) de Monster!
                             </p>
 
-                            <!--Facebook-->
-                            <a type="button" class="btn-floating btn-small btn-fb"><i class="fab fa-facebook-f"></i></a>
                             <!--Twitter-->
-                            <a type="button" class="btn-floating btn-small btn-tw"><i class="fab fa-twitter"></i></a>
-                            <!--Google +-->
-                            <a type="button" class="btn-floating btn-small btn-dribbble"><i class="fab fa-dribbble"></i></a>
+                            <a type="button" class="btn-floating btn-small" onclick="window.open('https://www.twitter.com/cidyzilla');"><i class="fab fa-twitter"></i></a>
+                            <!--Instagram +-->
+                            <a type="button" class="btn-floating btn-small" onclick="window.open('https://www.instagram.com/cidyzilla');"><i class="fab fa-instagram"></i></a>
 
                         </div>
                         <!--/.Card content-->
